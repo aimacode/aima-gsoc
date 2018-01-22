@@ -17,7 +17,15 @@ Here we're not interested in showing javascript code, but rather in having inter
 
 ## aima-exercises
 
-This is a new project: build a web site (on githiub) for the exercises that were in the AIMA book for the third edition, but will be only online in the fourth edition. We want to have all the exercises available to students and teachers, and have a system where new exercises can be added by volunteers. As the GSoC student, you would set an example by adding high-quality exercises.
+This is a new project: build a web site (on githiub) for the exercises that were in the AIMA book for the third edition, but will be only online in the fourth edition. That means we  need a student to help with some or all of these tasks:
+
+- Translate the current exercises (in LaTeX) into markdown.
+- Create some new, high-quality exercises.
+- Host all those exercises on github, both in raw file form, and hopefully as pretty [github pages](https://pages.github.com/).
+- Create an encouraging community for volunteers to write new exercises and correct/augment old ones.
+- Design a system where students can vote/rank exercises.
+- Figure out a way to have the answers for some exercises hidden (so that professors can assign them as homework) and have the answers for others (and discussion forums) available for the community.
+
 
 # Your Application
 
