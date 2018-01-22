@@ -32,4 +32,5 @@ This is a new project: build a web site (on githiub) for the exercises that were
 If you are interested in applying as a GSoC student, you should:
 - Say which of the above areas you are interested in working on.
 - Say what your experience is, including pointers to some projects you've worked on.
-- Bonus points if you've contributed to `aimacode`.
+- Bonus points if you've contributed to `aimacode` already: look for an open issue and pitch in.
+- You don't need a detailed proposal saying what specific things you want to do within an area.
