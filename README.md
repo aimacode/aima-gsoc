@@ -5,11 +5,11 @@ We are looking for students to work on `aimacode` for the [Google Summer of Code
 
 ## aima-python
 
-Finish the implementation of the pseudocode algorithms, and add documentation and examples of usage in ipython notebooks. The code needs to work, of course, but it also needs to be easy for the reader to understand, and to have a very close (almost one-to-one) correspondance to the pseudocode.
+Finish the implementation of the pseudocode algorithms, and add documentation and examples of usage in ipython notebooks. The code needs to work, of course, but it also needs to be easy for the reader to understand, and to have a very close (almost one-to-one) correspondance to the pseudocode in the book. The examples in the ipython notebooks need to demonstrate both how to use the code, and how the underlying AI ideas work. They should also inmspire the reader to try out nerw ideas of their own.
 
 ## aima-java
 
-Finish the implementation of the pseudocode algorithms, and add documentation and examples of usage. The code needs to work, of course, but it also needs to be easy for the reader to understand, and to have a very close (almost one-to-one) correspondance to the pseudocode.
+Finish the implementation of the pseudocode algorithms, and add documentation and examples of usage. The code needs to work, of course, but it also needs to be easy for the reader to understand, and to have a very close (almost one-to-one) correspondance to the pseudocode in the book.
 
 ## aima-javascript
 
@@ -22,7 +22,7 @@ This is a new project: build a web site (on githiub) for the exercises that were
 - Translate the current exercises (in LaTeX) into markdown.
 - Create some new, high-quality exercises.
 - Host all those exercises on github, both in raw file form, and hopefully as pretty [github pages](https://pages.github.com/).
-- Create an encouraging community for volunteers to write new exercises and correct/augment old ones.
+- Create an encouraging community for volunteers to write new exercises and solutions and correct/augment old ones.
 - Design a system where students can vote/rank exercises.
 - Figure out a way to have the answers for some exercises hidden (so that professors can assign them as homework) and have the answers for others (and discussion forums) available for the community.
 
