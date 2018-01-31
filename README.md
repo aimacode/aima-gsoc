@@ -1,11 +1,13 @@
-# aima-gsoc
+# `aimacode` Project Ideas
 
 
-We are looking for students to work on `aimacode` for the [Google Summer of Code](https://summerofcode.withgoogle.com) (GSoC). We don't know for sure if `aimacode` will be accepted, or how many students we will be allowed to sponsor, but we're interested in these four main areas:
+We are looking for students to work on `aimacode` for the [Google Summer of Code](https://summerofcode.withgoogle.com) (GSoC). We don't know for sure if `aimacode` will be accepted, or how many students we will be allowed to sponsor, but here are some project ideas:
 
-## aima-python
+## Finish aima-python algorithms and add explanatory notebooks
 
-Finish the implementation of the pseudocode algorithms, and add documentation and examples of usage in ipython notebooks. The code needs to work, of course, but it also needs to be easy for the reader to understand, and to have a very close (almost one-to-one) correspondance to the pseudocode in the book. The examples in the ipython notebooks need to demonstrate both how to use the code, and how the underlying AI ideas work. They should also inmspire the reader to try out nerw ideas of their own.
+Finish the implementation of the pseudocode algorithms in Python: we have [a list](https://github.com/aimacode/aima-python/blob/master/README.md) of half a dozen algorithms yet to implement, and a dozen still requiring tests. For this we're looking for coders with good taste: the code needs to work, of course, but it also needs to be easy for the reader to understand, and to have a very close (almost one-to-one) correspondance to the pseudocode in the book. 
+
+In addition to that, we would like to add ipython (jupyter) notebooks that exaplain how to use the algorithms, and show their application to specific domains, demonstrating both how to use the code, and how the underlying AI ideas work. The notebooks should also inspire the reader to try out nerw ideas of their own. This requires coding skills, but also English writing skill and good educational pedagogy.
 
 ## aima-java
 
