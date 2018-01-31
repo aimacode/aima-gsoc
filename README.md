@@ -1,29 +1,32 @@
-# `aimacode` Project Ideas
+# Project Ideas for `aimacode` 
 
 
 We are looking for students to work on `aimacode` for the [Google Summer of Code](https://summerofcode.withgoogle.com) (GSoC). We don't know for sure if `aimacode` will be accepted, or how many students we will be allowed to sponsor, but here are some project ideas:
 
-## Finish aima-python algorithms and add explanatory notebooks
+## Project 1: Finish `aima-python` algorithms and add explanatory notebooks
 
-Finish the implementation of the pseudocode algorithms in Python: we have [a list](https://github.com/aimacode/aima-python/blob/master/README.md) of half a dozen algorithms yet to implement, and a dozen still requiring tests. For this we're looking for coders with good taste: the code needs to work, of course, but it also needs to be easy for the reader to understand, and to have a very close (almost one-to-one) correspondance to the pseudocode in the book. 
+Finish the implementation of the [pseudocode](https://github.com/aimacode/aima-pseudocode) algorithms in Python: we have [a list](https://github.com/aimacode/aima-python/blob/master/README.md) of half a dozen algorithms yet to implement, and a dozen still requiring tests. For this we're looking for coders with good taste: the code needs to work, of course, but it also needs to be easy for the reader to understand, and to have a very close (almost one-to-one) correspondance to the pseudocode in the book. 
 
-In addition to that, we would like to add ipython (jupyter) notebooks that exaplain how to use the algorithms, and show their application to specific domains, demonstrating both how to use the code, and how the underlying AI ideas work. The notebooks should also inspire the reader to try out nerw ideas of their own. This requires coding skills, but also English writing skill and good educational pedagogy.
+In addition to that, we would like to add ipython (jupyter) notebooks that exaplain how to use the algorithms, and show their application to specific domains, demonstrating both how to use the code, and how the underlying AI ideas work. The notebooks should also inspire the reader to try out nerw ideas of their own. This requires coding skills, but also English writing skill and good educational pedagogy. Potential mentors: Dragomir Radev, `dragomir.radev@yale.edu` and 
+Pierre de Lacaze, `raymond.delacaze@gmail.com`.
 
-## aima-java
+## Project 2: Finish `aima-java` algorithms
 
-Finish the implementation of the pseudocode algorithms, and add documentation and examples of usage. The code needs to work, of course, but it also needs to be easy for the reader to understand, and to have a very close (almost one-to-one) correspondance to the pseudocode in the book.
+Finish the implementation of the [pseudocode](https://github.com/aimacode/aima-pseudocode) algorithms in Java: we have a [list](https://github.com/aimacode/aima-java#index-of-implemented-algorithms) of about a dozen algorithms yet to implement.
+The code needs to work, of course, but it also needs to be easy for the reader to understand, and to have a reasonably close correspondance to the pseudocode in the book.
 
-## aima-javascript
+## Project 3: Graphical demos in `aima-javascript`
 
-Here we're not interested in showing javascript code, but rather in having interactive graphical demonstrations. So this role is for someone who can write javascriot, but more importantly someone with good graphic design sense, and an ability to invent good educational material.
+Here we're not interested in showing javascript code that implements algorithms, but rather in having interactive graphical demonstrations. So this project is for someone who can write javascriot, but more importantly someone with good graphic design sense, and an ability to invent good educational material. An example of thge type of animation I'd like to see is the [A* tutorial](https://www.redblobgames.com/pathfinding/a-star/introduction.html) at Red Blob Games. Potential mentor: Sam Goto, `goto@google.com`.
 
-## aima-exercises
+## Project 4: Initiate `aima-exercises`
 
-This is a new project: build a web site (on githiub) for the exercises that were in the AIMA book for the third edition, but will be only online in the fourth edition. That means we  need a student to help with some or all of these tasks:
+This is a new project: build a web site (on github) for the exercises that were in the AIMA book for the third edition, but will be only online in the fourth edition. We currently have LaTeX source for the exercises. We need to reorganize as follows:
 
-- Translate the current exercises (in LaTeX) into markdown.
-- Create some new, high-quality exercises.
-- Host all those exercises on github, both in raw file form, and hopefully as pretty [github pages](https://pages.github.com/).
+- Translate the current exercises from LaTeX into markdown (this may be done before GSoC starts).
+- Design a good format to display the exercises as pretty [github pages](https://pages.github.com/).
+- Create some new, high-quality exercises, with solutions. Concentrate on exercises that require programming solutions.
+Your sample solutions have to not only solve the problem, but also clearly demonstrate the concepts to the students.
 - Create an encouraging community for volunteers to write new exercises and solutions and correct/augment old ones.
 - Design a system where students can vote/rank exercises.
 - Figure out a way to have the answers for some exercises hidden (so that professors can assign them as homework) and have the answers for others (and discussion forums) available for the community.
