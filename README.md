@@ -31,6 +31,8 @@ Your sample solutions have to not only solve the problem, but also clearly demon
 - Design a system where students can vote/rank exercises.
 - Figure out a way to have the answers for some exercises hidden (so that professors can assign them as homework) and have the answers for others (and discussion forums) available for the community.
 
+Potential mentor: Peter Norvig `peter@norvig.com`.
+
 
 # Your Application
 
