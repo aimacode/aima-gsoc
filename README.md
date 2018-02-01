@@ -17,7 +17,7 @@ The code needs to work, of course, but it also needs to be easy for the reader t
 
 ## Project 3: Graphical demos in `aima-javascript`
 
-Here we're not interested in showing javascript code that implements algorithms, but rather in having interactive graphical demonstrations. So this project is for someone who can write javascriot, but more importantly someone with good graphic design sense, and an ability to invent good educational material. An example of thge type of animation I'd like to see is the [A* tutorial](https://www.redblobgames.com/pathfinding/a-star/introduction.html) at Red Blob Games. Potential mentor: Sam Goto, `goto@google.com`.
+Here we're not interested in showing javascript code that implements algorithms, but rather in having interactive graphical demonstrations ([example](http://aimacode.github.io/aima-javascript/3-Solving-Problems-By-Searching/)): we have a [list](https://github.com/aimacode/aima-javascript/wiki/How-to-Contribute) of algorithms yet to be implemented. So this project is for someone who can write javascript, but more importantly someone with good graphic design sense, and an ability to invent good educational material. An example of the type of animation I'd like to see is the [A* tutorial](https://www.redblobgames.com/pathfinding/a-star/introduction.html) at Red Blob Games. Potential mentor: Sam Goto, `goto@google.com`.
 
 ## Project 4: Initiate `aima-exercises`
 
