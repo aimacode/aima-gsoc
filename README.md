@@ -1,19 +1,19 @@
-# Project Ideas for `aimacode` 
+# Project Ideas for `aimacode`
 
 
 We are looking for students to work on `aimacode` for the [Google Summer of Code](https://summerofcode.withgoogle.com) (GSoC). We don't know for sure if `aimacode` will be accepted, or how many students we will be allowed to sponsor, but here are some project ideas:
 
 ## Project 1: Finish `aima-python` algorithms and add explanatory notebooks
 
-Finish the implementation of the [pseudocode](https://github.com/aimacode/aima-pseudocode) algorithms in Python: we have [a list](https://github.com/aimacode/aima-python/blob/master/README.md) of half a dozen algorithms yet to implement, and a dozen still requiring tests. For this we're looking for coders with good taste: the code needs to work, of course, but it also needs to be easy for the reader to understand, and to have a very close (almost one-to-one) correspondance to the pseudocode in the book. 
+Finish the implementation of the [pseudocode](https://github.com/aimacode/aima-pseudocode) algorithms in Python: we have [a list](https://github.com/aimacode/aima-python/blob/master/README.md) of half a dozen algorithms yet to implement, and a dozen still requiring tests. For this we're looking for coders with good taste: the code needs to work, of course, but it also needs to be easy for the reader to understand, and to have a very close (almost one-to-one) correspondence to the pseudocode in the book.
 
-In addition to that, we would like to add ipython (jupyter) notebooks that exaplain how to use the algorithms, and show their application to specific domains, demonstrating both how to use the code, and how the underlying AI ideas work. The notebooks should also inspire the reader to try out nerw ideas of their own. This requires coding skills, but also English writing skill and good educational pedagogy. Potential mentors: Dragomir Radev, `dragomir.radev@yale.edu` and 
+In addition to that, we would like to add ipython (jupyter) notebooks that explain how to use the algorithms, and show their application to specific domains, demonstrating both how to use the code, and how the underlying AI ideas work. The notebooks should also inspire the reader to try out new ideas of their own. This requires coding skills, but also English writing skill and good educational pedagogy. SPotential mentors: Dragomir Radev, `dragomir.radev@yale.edu`, and
 Pierre de Lacaze, `raymond.delacaze@gmail.com`.
 
 ## Project 2: Finish `aima-java` algorithms
 
 Finish the implementation of the [pseudocode](https://github.com/aimacode/aima-pseudocode) algorithms in Java: we have a [list](https://github.com/aimacode/aima-java#index-of-implemented-algorithms) of about a dozen algorithms yet to implement.
-The code needs to work, of course, but it also needs to be easy for the reader to understand, and to have a reasonably close correspondance to the pseudocode in the book. Potential mentor: Peter Norvig `peter@norvig.com`.
+The code needs tAo work, of course, but it also needs to be easy for the reader to understand, and to have a reasonably close correspondence to the pseudocode in the book. Potential mentor: Peter Norvig `peter@norvig.com`.
 
 ## Project 3: Graphical demos in `aima-javascript`
 
@@ -21,12 +21,12 @@ Here we're not interested in showing javascript code that implements algorithms,
 
 ## Project 4: Initiate `aima-exercises`
 
-This is a new project: build a web site (on github) for the exercises that were in the AIMA book for the third edition, but will be only online in the fourth edition. We currently have LaTeX source for the exercises. We need to reorganize as follows:
+This is a new project: build a website (on GitHub) for the exercises that were in the AIMA book for the third edition, but will be only online in the fourth edition. We currently have LaTeX source for the exercises. We need to reorganize as follows:
 
 - Translate the current exercises from LaTeX into markdown (this may be done before GSoC starts).
-- Design a good format to display the exercises as pretty [github pages](https://pages.github.com/).
+- Design a good format to display the exercises as pretty [GitHub pages](https://pages.github.com/).
 - Create some new, high-quality exercises, with solutions. Concentrate on exercises that require programming solutions.
-Your sample solutions have to not only solve the problem, but also clearly demonstrate the concepts to the students.
+Your sample solutions have to not only solve the problem but also clearly demonstrate the concepts to the students.
 - Create an encouraging community for volunteers to write new exercises and solutions and correct/augment old ones.
 - Design a system where students can vote/rank exercises.
 - Figure out a way to have the answers for some exercises hidden (so that professors can assign them as homework) and have the answers for others (and discussion forums) available for the community.
