@@ -13,11 +13,7 @@ Pierre de Lacaze, `raymond.delacaze@gmail.com`.
 ## Project 2: Finish `aima-java` algorithms
 
 Finish the implementation of the [pseudocode](https://github.com/aimacode/aima-pseudocode) algorithms in Java: we have a [list](https://github.com/aimacode/aima-java#index-of-implemented-algorithms) of about a dozen algorithms yet to implement.
-<<<<<<< HEAD
 The code needs to work, of course, but it also needs to be easy for the reader to understand, and to have a reasonably close correspondence to the pseudocode in the book. Potential mentor: Peter Norvig `peter@norvig.com`.
-=======
-The code needs tAo work, of course, but it also needs to be easy for the reader to understand, and to have a reasonably close correspondence to the pseudocode in the book. Potential mentor: Peter Norvig `peter@norvig.com`.
->>>>>>> d888421e0573b99593e709c06f3e431213a9e6ed
 
 ## Project 3: Graphical demos in `aima-javascript`
 
