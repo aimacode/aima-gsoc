@@ -1,13 +1,13 @@
 # Project Ideas for `aimacode`
 
 
-We are looking for students to work on `aimacode` for the [Google Summer of Code](https://summerofcode.withgoogle.com) (GSoC). We don't know for sure if `aimacode` will be accepted, or how many students we will be allowed to sponsor, but here are some project ideas:
+We are looking for students to work on `aimacode` for the [Google Summer of Code](https://summerofcode.withgoogle.com) (GSoC) in 2018. We don't know for sure how many students we will be allowed to sponsor, but here are some project ideas:
 
 ## Project 1: Finish `aima-python` algorithms and add explanatory notebooks
 
 Finish the implementation of the [pseudocode](https://github.com/aimacode/aima-pseudocode) algorithms in Python: we have [a list](https://github.com/aimacode/aima-python/blob/master/README.md) of half a dozen algorithms yet to implement, and a dozen still requiring tests. For this we're looking for coders with good taste: the code needs to work, of course, but it also needs to be easy for the reader to understand, and to have a very close (almost one-to-one) correspondence to the pseudocode in the book.
 
-In addition to that, we would like to add ipython (jupyter) notebooks that explain how to use the algorithms, and show their application to specific domains, demonstrating both how to use the code, and how the underlying AI ideas work. The notebooks should also inspire the reader to try out new ideas of their own. This requires coding skills, but also English writing skill and good educational pedagogy. SPotential mentors: Dragomir Radev, `dragomir.radev@yale.edu`, and
+In addition to that, we would like to add ipython (jupyter) notebooks that explain how to use the algorithms, and show their application to specific domains, demonstrating both how to use the code, and how the underlying AI ideas work. The notebooks should also inspire the reader to try out new ideas of their own. This requires coding skills, but also English writing skill and good educational pedagogy. Potential mentors: Dragomir Radev, `dragomir.radev@yale.edu`, and
 Pierre de Lacaze, `raymond.delacaze@gmail.com`.
 
 ## Project 2: Finish `aima-java` algorithms
@@ -40,4 +40,4 @@ If you are interested in applying as a GSoC student, you should:
 - Say which of the above areas you are interested in working on.
 - Say what your experience is, including pointers to some projects you've worked on.
 - Bonus points if you've contributed to `aimacode` already: look for an open issue and pitch in; let us know what you've done in the application.
-- You don't need a detailed proposal saying what specific things you want to do within an area--just general areas yoiu are interested in.
+- You don't need a detailed proposal saying what specific things you want to do within an area--just general areas you are interested in.
