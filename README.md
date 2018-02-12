@@ -17,7 +17,7 @@ The code needs to work, of course, but it also needs to be easy for the reader t
 
 ## Project 3: Graphical demos in `aima-javascript`
 
-Here we're not interested in showing javascript code that implements algorithms, but rather in having interactive graphical demonstrations ([example](http://aimacode.github.io/aima-javascript/3-Solving-Problems-By-Searching/)): we have a [list](https://github.com/aimacode/aima-javascript/wiki/How-to-Contribute) of algorithms yet to be implemented. So this project is for someone who can write javascript, but more importantly someone with good graphic design sense, and an ability to invent good educational material. An example of the type of animation I'd like to see is the [A* tutorial](https://www.redblobgames.com/pathfinding/a-star/introduction.html) at Red Blob Games. Potential mentor: Sam Goto, `goto@google.com`.
+Here we're not interested in showing Javascript code that implements algorithms, but rather in having interactive graphical demonstrations ([example](http://aimacode.github.io/aima-javascript/3-Solving-Problems-By-Searching/)): we have a [list](https://github.com/aimacode/aima-javascript/wiki/How-to-Contribute) of algorithms yet to be implemented. So this project is for someone who can write Javascript, but more importantly someone with good graphic design sense, and an ability to invent good educational material. An example of the type of animation I'd like to see is the [A* tutorial](https://www.redblobgames.com/pathfinding/a-star/introduction.html) at Red Blob Games. Potential mentor: Sam Goto, `goto@google.com`.
 
 ## Project 4: Initiate `aima-exercises`
 
@@ -39,5 +39,5 @@ Potential mentor: Peter Norvig `peter@norvig.com`.
 If you are interested in applying as a GSoC student, you should:
 - Say which of the above areas you are interested in working on.
 - Say what your experience is, including pointers to some projects you've worked on.
-- Bonus points if you've contributed to `aimacode` already: look for an open issue and pitch in.
-- You don't need a detailed proposal saying what specific things you want to do within an area.
+- Bonus points if you've contributed to `aimacode` already: look for an open issue and pitch in; let us know what you've done in the application.
+- You don't need a detailed proposal saying what specific things you want to do within an area--just general areas yoiu are interested in.
