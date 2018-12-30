@@ -12,7 +12,14 @@ Pierre de Lacaze, `raymond.delacaze@gmail.com`.
 
 ## Project 2: Finish `aima-java` algorithms
 
-Finish the implementation of the [pseudocode](https://github.com/aimacode/aima-pseudocode) algorithms in Java: we have a [list](https://github.com/aimacode/aima-java#index-of-implemented-algorithms) of about a dozen algorithms yet to implement.
+Finish the implementation of the [pseudocode](https://github.com/aimacode/aima-pseudocode) algorithms in Java: we maintain a [list](https://github.com/aimacode/aima-java#index-of-implemented-algorithms) of algorithms that are currently implemented in the repository or need to be implemented.
+
+Most of the algorithms from the third edition have been implemented. Currently, the authors are working on the __fourth edition__ of the text. The algorithms from the fourth edition are updated simultaneously in the [pseudocode](https://github.com/aimacode/aima-pseudocode) repository. These algorithms are required to be updated in the AIMA4e branch of the repository. As far as the third edition is concerned, we have introduced __Java-Notebooks__ so that it becomes easier to experiment with the code in the __browser itself__. Following are a few lines along which you can initiate your work:
+
+1. Most of the algorithms from the third edition are complete. However, the __testing suites__ have a large scope of improvement. You can begin by writing __test cases__ for any of the algorithms. It is also the best way to take a grasp of the codebase.
+2. Since the notebooks were introduced only in the last year, there are very few [completed notebooks](https://github.com/aimacode/aima-java/tree/AIMA3e/notebooks). You can begin by picking up a chapter of your choice and then exploring them in the notebooks.
+3. You can keep an eye on the [pseudocode](https://github.com/aimacode/aima-pseudocode) repository and implement any new algorithms introduced for the fourth edition in the AIMA-4e branch. You can further visit [this](https://github.com/aimacode/aima-java/issues/438) issue for inspiration.
+
 The code needs to work, of course, but it also needs to be easy for the reader to understand, and to have a reasonably close correspondence to the pseudocode in the book. Potential mentor: Peter Norvig `peter@norvig.com`.
 
 ## Project 3: Graphical demos in `aima-javascript`
