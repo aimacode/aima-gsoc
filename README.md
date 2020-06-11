@@ -1,10 +1,9 @@
-<h1>GSoC Ideas List: <tt>aimacode</tt></h1></div>
-    <div id="content">
+# GSoC Ideas List: `aimacode`
 
+# (Note: `aimacode` is not participating in GSOC for 2020)
 
-
-The <a href="https://github.com/aimacode"><tt>aimacode</tt></a> project has applied for the Google
-Summer of Code. We're looking for a few student interns to help write code. We expect the following skills for all projects (individual project ideas list additional skills): 
+In the past, the <a href="https://github.com/aimacode"><tt>aimacode</tt></a> project has enjoyed the support of the Google
+Summer of Code. We may do so again in 2021. We had a few student interns help write code. Here are some of the requirements and project ideas from past years:
 
 <ul>
 	<li> Very strong coding ability. Give us a link to some projects you've done.
